@@ -53,9 +53,9 @@ Explanation: ". *" means "zero or more (*) of any character (.)".
 ## Solution
 
 **Language:** Python  
-**Runtime:** 5 ms (beats 67.56%)  
-**Memory:** 19.4 MB (beats 68.06%)  
-**Submitted:** 2026-09-30T12:52:14.486Z  
+**Runtime:** 11 ms (beats 24.46%)  
+**Memory:** 19.6 MB (beats 37.31%)  
+**Submitted:** 2026-09-30T12:52:37.649Z  
 
 ```py
 class Solution:
