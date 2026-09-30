@@ -53,7 +53,7 @@ Print $N-1$ lines as explained above.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-30T19:37:10.971Z  
+**Submitted:** 2026-09-30T19:37:36.254Z  
 
 ```py
 for i in range(1,int(input())): 
