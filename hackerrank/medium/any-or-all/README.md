@@ -50,13 +50,13 @@ Print `True` if all the conditions of the problem statement are satisfied. Other
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-02T21:37:04.254Z  
+**Submitted:** 2026-10-02T21:38:36.100Z  
 
 ```py
 num = int(input())
 list1 = list(map(int,input().split()))
 
-print(True)
+print(all(i > 0 for i in list1) and any(str(i) == str(i)[::-1] for i in list1))
 
 ```
 
