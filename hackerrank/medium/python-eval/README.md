@@ -67,10 +67,10 @@ Input string is less than 100 characters.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-02T06:14:23.274Z  
+**Submitted:** 2026-10-02T06:14:39.380Z  
 
 ```py
-
+from __future__ import print_function
 
 eval(input())
 
