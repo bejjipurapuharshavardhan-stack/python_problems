@@ -8,4 +8,3 @@ def fibonacci(n):
         a, b = b, a+b
     return fib
     
-
