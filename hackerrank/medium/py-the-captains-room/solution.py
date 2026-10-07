@@ -1,14 +1,28 @@
-from collections import Counter
-
 K = int(input())
 my_list = list(map(int, input().split()))
 
-# This counts all numbers in just 1 single pass!
-counts = Counter(my_list)
+my_list.sort()
+n = len(my_list)
 
-for i in counts:
-    if counts[i] == 1:  
-        print(i)
-        break           
+i = 0
+while i < n:
+    j = i
+    while j < n and my_list[j] == my_list[i]:
+        j += 1
+    if j - i != K:
+        print(my_list[i])
+        break
+    i = j
+
+
+
+
+
+
+
+
+
+
+      
 
 
