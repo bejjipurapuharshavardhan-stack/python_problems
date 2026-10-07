@@ -28,7 +28,7 @@ Output a single integer, your total happiness.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-07T16:32:44.013Z  
+**Submitted:** 2026-10-07T16:33:41.981Z  
 
 ```py
 n, m = map(int, input().split())
