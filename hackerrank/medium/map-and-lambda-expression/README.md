@@ -47,7 +47,7 @@ A list on a single line containing the cubes of the first $N$ fibonacci numbers.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-07T15:47:26.913Z  
+**Submitted:** 2026-10-07T15:48:00.316Z  
 
 ```py
 cube = lambda x: x**3
@@ -60,7 +60,6 @@ def fibonacci(n):
         a, b = b, a+b
     return fib
     
-
 
 ```
 
