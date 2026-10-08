@@ -76,7 +76,7 @@ Hence, the answer is $\frac{5}{6}$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-08T16:34:09.658Z  
+**Submitted:** 2026-10-08T16:35:51.844Z  
 
 ```py
 from itertools import combinations
