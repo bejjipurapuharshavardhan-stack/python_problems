@@ -53,7 +53,7 @@ The second line contains an integer, $k$, the length of each substring.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-25T17:11:41.298Z  
+**Submitted:** 2026-10-25T17:11:55.685Z  
 
 ```py
 def merge_the_tools(string, k):
