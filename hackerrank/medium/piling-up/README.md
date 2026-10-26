@@ -45,7 +45,7 @@ For each test case, output a single line containing either `Yes` or `No`.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-26T14:13:05.184Z  
+**Submitted:** 2026-10-26T14:13:15.440Z  
 
 ```py
 from collections import deque
