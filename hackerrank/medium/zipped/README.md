@@ -65,7 +65,7 @@ The averages must be correct up to $1$ decimal place.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-27T18:14:56.785Z  
+**Submitted:** 2026-10-27T18:14:58.710Z  
 
 ```py
 # 1. Get the number of students (N) and subjects (X)
