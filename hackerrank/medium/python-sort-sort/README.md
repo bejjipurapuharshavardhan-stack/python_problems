@@ -34,7 +34,7 @@ Print the $N$ lines of the sorted table. Each line should contain the space sepa
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-27T18:17:36.428Z  
+**Submitted:** 2026-10-27T18:17:16.070Z  
 
 ```py
 #!/bin/python3
