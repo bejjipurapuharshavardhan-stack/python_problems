@@ -81,11 +81,11 @@ The next line contains an integer $position$, the index location and a string $c
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-28T18:02:43.465Z  
+**Submitted:** 2026-10-28T18:02:57.557Z  
 
 ```py
 def mutate_string(string, position, character):
-    return string[:position] + character + string[position+1:]
+    return string[:position] + character + string[position+1:] #for the format
 
 
 ```
