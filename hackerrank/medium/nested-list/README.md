@@ -39,7 +39,7 @@ Print the name(s) of any student(s) having the second lowest grade in. If there 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-29T16:35:54.538Z  
+**Submitted:** 2026-10-29T16:36:19.997Z  
 
 ```py
 if __name__ == '__main__':
