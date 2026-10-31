@@ -60,19 +60,15 @@ Output two lines:
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-08T18:18:58.620Z  
+**Submitted:** 2026-10-31T18:46:25.860Z  
 
 ```py
+# Enter your code here. Read input from STDIN. Print output to STDOUT
 import cmath
 
-# Read the input string and convert it to a complex number
-z = complex(input().strip())
-
-# Calculate and print the modulus (r)
+z = complex(input())
 print(abs(z))
-
-# Calculate and print the phase angle (phi)
-print(cmath.phase(z))  #math.degrees  -> if need in only degrees
+print(cmath.phase(z))
 
 ```
 
