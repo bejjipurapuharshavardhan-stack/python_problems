@@ -25,10 +25,9 @@ Print "True" or "False" for each test case without quotes.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-05T17:04:44.644Z  
+**Submitted:** 2026-10-31T17:56:22.426Z  
 
 ```py
-# Enter your code here. Read input from STDIN. Print output to STDOUT
 import re
 
 test_cases = int(raw_input())
