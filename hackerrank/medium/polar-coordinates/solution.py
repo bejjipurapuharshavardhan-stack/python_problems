@@ -1,10 +1,6 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
 import cmath
 
-# Read the input string and convert it to a complex number
-z = complex(input().strip())
-
-# Calculate and print the modulus (r)
+z = complex(input())
 print(abs(z))
-
-# Calculate and print the phase angle (phi)
-print(cmath.phase(z))  #math.degrees  -> if need in only degrees
+print(cmath.phase(z))
