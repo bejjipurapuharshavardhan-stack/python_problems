@@ -8,5 +8,5 @@ for _ in range(test_cases):
         # Explicitly match the expected output
         print("Error Code: integer division or modulo by zero")
     except ValueError as e:
-        # ValueError's default string already matches perfectly
+        # ValueError's default
         print("Error Code:", e)
