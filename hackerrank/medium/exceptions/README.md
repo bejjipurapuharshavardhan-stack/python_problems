@@ -76,7 +76,7 @@ In the case of *ZeroDivisionError* or *ValueError*, print the error code.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-05T16:43:42.989Z  
+**Submitted:** 2026-10-31T17:55:48.991Z  
 
 ```py
 test_cases = int(input())
@@ -89,7 +89,7 @@ for _ in range(test_cases):
         # Explicitly match the expected output
         print("Error Code: integer division or modulo by zero")
     except ValueError as e:
-        # ValueError's default string already matches perfectly
+        # ValueError's default
         print("Error Code:", e)
 
 ```
