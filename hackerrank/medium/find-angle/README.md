@@ -46,7 +46,7 @@ $0° < \theta° < 90°$
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-31T18:34:48.620Z  
+**Submitted:** 2026-10-31T18:38:40.824Z  
 
 ```py
 import math
