@@ -38,7 +38,7 @@ Print the absolute difference $(t_1 - t_2)$ in seconds.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-25T17:14:58.666Z  
+**Submitted:** 2026-11-01T18:40:16.009Z  
 
 ```py
 #!/bin/python3
