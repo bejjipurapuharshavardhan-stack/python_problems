@@ -66,7 +66,7 @@ Print the average marks of the list corrected to 2 decimal places.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-10T15:49:02.757Z  
+**Submitted:** 2026-11-03T09:36:08.147Z  
 
 ```py
 from collections import namedtuple
