@@ -39,7 +39,7 @@ If the occurrence count is the same, sort the characters in alphabetical order.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-11T20:15:18.399Z  
+**Submitted:** 2026-11-05T15:30:57.535Z  
 
 ```py
 #!/bin/python3
