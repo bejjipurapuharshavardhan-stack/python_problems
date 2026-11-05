@@ -76,7 +76,7 @@ In the case of *ZeroDivisionError* or *ValueError*, print the error code.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-31T17:55:48.991Z  
+**Submitted:** 2026-11-05T16:05:18.994Z  
 
 ```py
 test_cases = int(input())
